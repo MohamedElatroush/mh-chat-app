@@ -12,7 +12,10 @@ A modern web application built with React, Vite, Supabase, and Google Cloud serv
 ## Features
 - Sign In using google
 <img width="1728" alt="Screenshot 2025-02-02 at 11 08 33 PM" src="https://github.com/user-attachments/assets/3b508e44-f7c6-4c74-8d0e-31e8a449f72d" />
-
+- Overview
+<img width="1727" alt="Screenshot 2025-02-02 at 11 13 26 PM" src="https://github.com/user-attachments/assets/3cd8a3ae-a77a-4421-99c8-f97c3191a317" />
+- Sending a message test
+<img width="1725" alt="Screenshot 2025-02-02 at 11 13 43 PM" src="https://github.com/user-attachments/assets/f2b445c6-204f-4cf9-94d9-29ea59049d7f" />
 
 
 ## Prerequisites
@@ -25,10 +28,8 @@ A modern web application built with React, Vite, Supabase, and Google Cloud serv
 - Modern web browser
 
 ## Getting Started
+- Make sure to create an account on supabase
+- Create google cloud service project
+- Install ngrok to host the server locally
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
