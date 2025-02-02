@@ -7,8 +7,6 @@
 
 A modern web application built with React, Vite, Supabase, and Google Cloud services.
 
-![Project Screenshot](./screenshot.png)
-
 ## Features
 - Sign In using google
 <img width="1728" alt="Screenshot 2025-02-02 at 11 08 33 PM" src="https://github.com/user-attachments/assets/3b508e44-f7c6-4c74-8d0e-31e8a449f72d" />
